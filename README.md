@@ -39,4 +39,4 @@ Source: `https://hastie.su.domains/ElemStatLearn/datasets/`
 
 ---
 
-*Part of a B.Sc. in Mathematical Statistics and Machine Learning, Stockholm University.*
+*Part of advanced studies in Mathematical Statistics and Machine Learning, Stockholm University.*
