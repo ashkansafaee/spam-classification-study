@@ -1,6 +1,6 @@
 # Spam Classification — Gradient Boosting vs SVM
 
-A comparative study of two ensemble/kernel methods on the classic Hastie et al. spam dataset. Built as part of coursework in Statistical Learning at Stockholm University.
+A comparative study of two ensemble/kernel methods on the classic Hastie et al. spam dataset. 
 
 ## Problem
 
